@@ -4,6 +4,9 @@ install.packages("reticulate") # python support in RMarkdown
 install.packages("ggplot2") # for plotting
 install.packages(c("rmarkdown", "caTools", "bitops")) # for knitting
 
+install.packages("tidyverse")
+install.packages("GGally")
+
 ### install bioconductor packages
 # install.packages("BiocManager")
 # BiocManager::install("package")
