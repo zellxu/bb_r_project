@@ -34,7 +34,7 @@ Modify the files in the `binder` sub-directory to specify required dependencies 
 ### Jupyter Lab
 
  - modify the following link to launch your repo in an RStudio binder (`USER`, `REPO`, `BRANCH`): `http://mybinder.org/v2/gh/USER/REPO/BRANCH?urlpath=lab`
- - modify the following markdown code to create a launch badge like the one at the top this README: `[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/zellxu/bb_r_project/master?urlpath=lab)`
+ - modify the following markdown code to create a launch badge like the one at the top this README: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/zellxu/bb_r_project/master?urlpath=lab)
 
 ### RStudio
 
