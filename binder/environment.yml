@@ -4,3 +4,6 @@ dependencies:
   - pandas
   - nltk
   - gensim
+  - scikit-learn
+  - spacy
+  - pyLDAvis
