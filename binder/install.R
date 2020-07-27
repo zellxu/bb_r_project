@@ -7,6 +7,8 @@ install.packages(c("rmarkdown", "caTools", "bitops")) # for knitting
 install.packages("tidyverse")
 install.packages("GGally")
 
+install.packages("fuzzywuzzy")
+
 ### install bioconductor packages
 # install.packages("BiocManager")
 # BiocManager::install("package")
